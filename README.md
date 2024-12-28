@@ -1,1 +1,3 @@
-# Capstone-project-A-blog-web-application
+Web development Boothcamp - Angela Yu.
+lecture 26 Capstone Project
+A-blog-web-application
